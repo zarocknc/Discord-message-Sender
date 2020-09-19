@@ -1,0 +1,25 @@
+* {
+text-align: center;
+font-family: sans-serif;
+color: snow;
+text-decoration-color: blue;
+text-emphasis-color: darkorange;
+color
+}
+
+#pie {
+    opacity: 0.8;color: darkorange;
+}
+button {
+    background-color: #1c1f22 ;
+    color: white;
+    border: 6px solid #363a3e;
+}
+body {
+    background-image: url(images/background.png);
+}
+::placeholder{
+    color: black;
+    opacity: 1;
+
+}
